@@ -53,4 +53,7 @@ email: ""
 highlight_name: false
 ---
 
+热爱计算机科学和互联⽹技术，具有良好的编程习惯；沟通表达能⼒强，快速的适应和业务学习能⼒，善于发现和定位问题，敏捷而周到的逻辑思维能⼒；性格开朗，具有良好的沟通能⼒和团队协作能⼒；
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
