@@ -1,6 +1,6 @@
 ---
 # Display name
-title: xieheng
+title: 谢珩
 
 # Is this the primary user of the site?
 superuser: true
