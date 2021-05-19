@@ -25,6 +25,7 @@ phone: 153 6339 1327
 contact_links:
 - icon: github
   icon_pack: fab
+  name: github.com/Branstons
   link: https://github.com/Branstons
 
 # Site header
