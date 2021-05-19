@@ -24,28 +24,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+  date_end: "2021-01-15"
+  date_start: "2019-06-25"
   description: ""
-  organization: Coursera
+  organization: 国家级⼤学⽣创新创业训练计划
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: 云环境下基于感知哈希的密⽂图像检索系统
   url: ""
 - certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
+  date_end: "2021-01-01"
+  date_start: "2020-11-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  organization: 课程设计
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  title: Python爬取股票数据
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: "2020-09-21"
+  date_start: "2019-07-01"
   description: ""
-  organization: DataCamp
+  organization: 校级⼤学⽣创新创业训练项⽬
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: U+智能测评
   url: ""
 
 design:
